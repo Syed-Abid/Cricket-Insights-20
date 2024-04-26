@@ -30,8 +30,10 @@ Unleash the power of cricket data with "Cricket Insights 20"! 🏏📈 This full
 </div>
 
 ## 💡 Insights
-- jbdjbd
-- 
+- Top 5 players as per their **Boundary %** and some other factors are made selected from the whole team. 
+- Average Strike rate is **117.08**.
+- Average Boundary % is **50%**.
+- Final 12 players have been selected among the list of all players. 
 
 ## 🛠️ Setup and Usage
 
